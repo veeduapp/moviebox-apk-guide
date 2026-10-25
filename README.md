@@ -20,7 +20,7 @@ MovieBox is a third-party Android app for watching movies, TV shows, anime, and 
 3. Scan the file on VirusTotal before installing.
 4. Open the file, install it, and start watching.
 
-Full guide and download details: https://moviesboxappk.com/
+Full guide and download details: [MoviesBoxAppK](https://moviesboxappk.com/)
 
 ## Safety Checklist
 
